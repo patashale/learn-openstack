@@ -1,4 +1,7 @@
 site_name: Learn OpenStack
+site_url: https://www.patashale.in/learn-openstack/
+site_author: Patashale™
+site_description: Learn everything about OpenStack here at Patashale™.
 repo_url: https://github.com/patashale/learn-openstack
 repo_name: patashale/learn-openstack
 theme:
