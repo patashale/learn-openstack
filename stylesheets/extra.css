@@ -1,0 +1,25 @@
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color:        #ED1944;
+    --md-primary-fg-color--light: #30323d;
+    --md-primary-fg-color--dark: #30323d;
+    --md-accent-fg-color:        #ED1944;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color:        #ED1944;
+    --md-primary-fg-color--light: #30323d;
+    --md-primary-fg-color--dark: #30323d;
+    --md-accent-fg-color:        #FFFFFF;
+}
+
+div.md-content {
+    text-align: justify;
+}
+
+div.md-header__topic {
+    display: none;
+}
+
+.md-nav--primary .md-nav__title {
+    font-size: 0; /* Set font size to 0 to hide text */
+}
